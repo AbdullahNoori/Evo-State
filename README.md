@@ -1,4 +1,7 @@
 Evo-State 🏡🚀
+
+
+
 Evo-State is a multi-platform real estate app built with Expo & React Native, designed for seamless property browsing and management. It leverages top-tier technologies to deliver a smooth and responsive experience.
 
 ✨ Features
